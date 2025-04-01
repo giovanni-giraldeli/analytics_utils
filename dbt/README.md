@@ -9,7 +9,8 @@
   - **[Tests](#tests)**<br>
   - **[Macros](#macros)**<br>
 - **[Jinja](#jinja)**
-
+  - **[Basic Syntax](#basic-syntax)**
+  - **[Basic Functions](#basic-functions)**
 ---
 
 # Basic Commands
