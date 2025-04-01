@@ -3,7 +3,7 @@
   - **[dbt run](#dbt-run)**<br>
   - **[dbt build](#dbt-build)**<br>
   - **[dbt test](#dbt-test)**<br>
-  - **[dbt \<cmd> --select <model_name>](#dbt--cmd----select--model-name-)**<br>
+  - **[dbt \<cmd> --select <model_name>](#dbt---cmd----select--model-name-)**<br>
 - **[System Architecture](#system-architecture)**<br>
   - **[Models](#models)**<br>
   - **[Tests](#tests)**<br>
