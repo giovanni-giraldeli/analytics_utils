@@ -39,7 +39,7 @@
   We are done filtering and aggregating, so it's time to get some results with the `SELECT` coming in to stage, while `ORDER BY` and `LIMIT` help you to organize how you'll display the data by _- well -_
   ordering and limiting the result set to be displayed.
 
-  Try using some tips here before blaming and swearing **[add your data viz tool here]** that your dashboards are taking ages to load.
+  Try using some of these tips before blaming and swearing **[add your data viz tool here]** that your dashboards are taking ages to load.
 
   I hope that this map helps you to better optimize your queries, narrowing the scope and the data size to be analyzed.<br>
   Some other techniques can help better optimizing the performance, but they come previous to querying the data, such as proper data modeling, indexing columns, and partitioning tables.
